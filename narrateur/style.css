@@ -1,0 +1,28 @@
+body {
+    background-image:url("images/espacee.gif") ;
+    background-size: 85%;
+    color: rgba(4, 247, 33, 0.521);
+}
+h1{
+    color:red; 
+    text-align: center;
+    text-decoration: underline;
+    font-family:"Copperplate","Papyrus";
+}
+ul{
+    border-style: solid;
+}
+div{
+    justify-content: center;
+    display: flex;
+    }
+
+.milieu{
+    text-align: center;
+    font-family:"Brush Script MT", cursive;
+    font-size: 2em;
+     }
+
+  .sp{
+    font-size: 2em; 
+  }

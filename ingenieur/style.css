@@ -1,0 +1,15 @@
+body
+{
+    color: rgba(228, 17, 17, 0.863); 
+    text-align: center;
+    background-size: cover;
+    background-image: url("images/ingénieur.jpg");
+}
+
+p
+{
+    color:whitesmoke;
+    font-weight: bold;
+    font-style: italic;
+}
+

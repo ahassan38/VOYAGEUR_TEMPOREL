@@ -1,0 +1,67 @@
+body{
+     background-image: url("./images/FD.jpg") ;
+}
+h1,h2{
+    background-color:skyblue;
+}
+h1,h2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+h1,h2{
+    border: white solid;
+}
+p {
+ color:rgb(10, 25, 165);
+ text-align: center;
+}
+.Chapitre {
+    color: black;
+    border-style:double;
+    border-radius: 10px;
+    border-color:rgb(15, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    color:rgb(16, 138, 5);
+    font-size:20px;
+}
+div {
+    text-align: center;
+}
+
+  img {
+      border-style:groove;
+      border-radius: 35px;
+}
+ul{
+    font-size: 18px;;
+    list-style: none;
+    text-align: center;
+    font-style:italic;
+    color:rgb(8, 40, 128)
+}
+.Menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:gray;
+    border-radius: 20px;
+    padding:5px;
+}
+.link { 
+    border-radius: 20px;
+    padding:5px;
+    border-color: black;
+    background-color:white;
+    border-width: 1px;
+    line-height: 2;
+    text-decoration: skyblue;
+    color:rgb(16, 138, 5);
+}
+.link:hover{
+    background-color:skyblue;
+}

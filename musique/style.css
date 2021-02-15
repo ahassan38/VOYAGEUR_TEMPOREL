@@ -1,0 +1,84 @@
+h1
+{
+    text-align: center;
+    font-size: 5em;
+    border: 6px lime inset;
+    background-color: black;
+    font-style: italic
+    ;
+}
+
+h2 {
+    border: 6px lime inset;
+    display:table;
+    margin:auto;
+    background-color: black;
+}
+
+body {
+    color: yellow;
+    background-image: url("image/sound2.gif");
+    background-attachment: fixed;
+}
+
+p
+{
+    background-color: rgb(0, 0, 0);    
+    font-size: 2em;
+    text-align: left;
+}
+
+
+img {
+    width: 700px;
+    height: 800px;
+    text-align: left;
+    display: table-cell;
+    vertical-align: left
+    border: 30px solid
+  }
+
+ul {
+    font-size: xx-large;
+}
+
+.mohamed {
+    float: right;
+    border-radius: 25px;
+    border: solid yellow;
+}
+
+.DS-2 {
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+.perso{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:limegreen;
+    border-radius: 20px;
+    padding:5px;
+    flex-wrap: wrap;
+}
+
+.fils {
+    background-color: yellow;
+    margin: 0.2%;
+    border: solid 10px black;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+
+
+
+.fils:hover {
+    background-color: limegreen;
+}
+

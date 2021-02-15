@@ -1,0 +1,133 @@
+header{color: white;
+font-size: 20px;
+}
+body{
+    background-image:url("../images/background.jpg");
+    background-size: auto;
+    
+    
+}
+h1 {
+    color:darkgoldenrod;
+    font-size: 70px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    position: absolute;
+    text-align: center;
+    top: 700px;
+    left: 650px;
+    font-size: 30px;
+}
+table{border-collapse: collapse;
+
+}
+
+
+.element1{
+    color: white;
+    text-align: center;
+    font-size: 28px;
+}
+td,th{
+    border: 2px solid darkgoldenrod;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 250px;
+    width: 100px;
+    height: 100px;
+}
+tbody tr:nth-child(odd){
+    background-color: darkred;
+}
+tbody tr:nth-child(even){
+    background-color: rgb(4, 139, 121);
+}
+
+
+.container1{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+    
+    
+    
+}
+
+.items1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 28px;
+}
+
+
+.liens:hover{
+background-color: darkslategray;   
+
+}
+.Adn{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 750px;
+    left: 340px;
+}
+
+.flex-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap:nowrap;
+    height: 500px;
+}
+.child1{
+    flex-grow: 3;
+    
+    text-align: center;
+}
+.child2{
+    flex-shrink: 2;
+    font-size: 28px;
+    text-align:center ;
+    font-weight: bold;
+    color: white;
+}
+.child3{
+    flex-grow: 3;
+    
+    text-align: center;
+    
+}
+.bouton1:hover{
+    background-color: rgb(80, 83, 85);
+}
+.flex-zo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.img1{
+    color: white;
+}
+.img2{
+    color: white;
+}
+.img3{
+    color: white;
+}
+.confai{
+    position: absolute;
+    top: 630px;
+    left: 240px;
+}

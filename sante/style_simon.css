@@ -1,0 +1,113 @@
+.stats {
+    color:lightblue;
+    border-style:groove;
+    border-color:blue;
+    text-align: center;
+}
+
+.titre_doc {
+    margin: 20px;
+    background: lightblue;
+    padding: 30px;
+    font-size: small;
+    font-family: "Tahoma", Arial, sans-serif;
+    text-align: left;
+}
+
+.test {
+    margin: 20px;
+    background:lightblue;
+    padding: 10px;
+    font-size: 34px;
+    font-family: "Tahoma", Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color:red;
+}
+
+.texte3 {
+    font-size:50px;
+    text-align: center;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+color:lightblue;
+border-style:groove;
+border-color:blue;
+text-align: center;
+}
+
+.shen {
+    width: 60%;
+}
+
+div {
+    text-align: center;
+}
+.stats2 {
+    text-align:left;
+    font-size:30px;
+    border-style:groove;
+    border-color:blue;
+}
+.premier {
+    font-size:25px;
+    text-align:center;
+}
+.second {
+    text-align:left;
+    font-size:20px;
+}
+.ia {
+    width:60%
+}
+body {
+    background-color: rgb(196, 240, 223);
+}
+a {
+    background-color: cyan;
+    border-style:solid;
+    border-color:black;
+    text-align:left; 
+}
+
+.parent {                    
+    display:flex;
+    flex-direction:row;
+    text-align: center;
+}
+.enfant {
+    background-color: lightblue;
+    margin-left:20px;
+    margin-right:20px;
+    border:2px solid blue;
+    border-radius:15px;
+    padding:10px;
+    text-align:left;
+}
+.enfant:hover {
+    background-color: white;
+}
+
+.petit_titre {
+    text-align:center;
+    font-size:40px;
+    text-emphasis-color: red;
+}
+
+.premiere_phrase {
+    text-align:center;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+td, th
+{
+    border: 1px solid black;
+}
+p {
+    font-style:italic;
+}
+    
